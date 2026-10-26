@@ -1,0 +1,15 @@
+#name-input {
+  display: block;
+  margin-bottom: 16px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#name-input + h1 {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 32px;
+  letter-spacing: 0.04em;
+  color: #2e2f42;
+}
